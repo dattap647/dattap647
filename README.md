@@ -16,7 +16,7 @@
 
 [![datta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dattap647&theme=chartreuse-dark&hide_border=true&background=0d1117)](https://github.com/dattap647/github-readme-streak-stats)
 
-[![Alli's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlliAga&bg_color=0d1117&color=62c637&line=08ff00&point=fff&area=true&hide_border=true)](https://github.com/dattap647/github-readme-activity-graph)
+[![Datta's github activity graph](https://activity-graph.herokuapp.com/graph?username=dattap647&bg_color=0d1117&color=62c637&line=08ff00&point=fff&area=true&hide_border=true)](https://github.com/dattap647/github-readme-activity-graph)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
