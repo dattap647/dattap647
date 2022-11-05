@@ -1,6 +1,4 @@
-[![@dattap647 Holopin board]
-(https://holopin.me/@dattap647)]
-(https://holopin.io/@dattap647)
+
 
 <h1 align="center">  Hi, I'm  Datta Patil</h1>
 
